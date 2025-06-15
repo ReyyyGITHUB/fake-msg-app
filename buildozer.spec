@@ -7,7 +7,7 @@ source.dir = .
 source.include_exts = py,png,jpg,kv,atlas
 
 version = 1.0
-requirements = python3,kivy
+requirements = python3,kivy,cython
 
 # Android specific
 android.permissions = WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE
